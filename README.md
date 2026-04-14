@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Darshitha S R
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Enthusiast;Full+Stack+Developer;Hackathon+Winner;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Agentic+AI+%26+LLMs+Enthusiast;MERN+Stack+Developer;AI+Systems+Builder;Hackathon+Winner" />
 </p>
 
 ---
 
 ## 🌟 About Me
 🎓 B.Tech CSE @ REVA University 
-💡 Passionate about **Artificial Intelligence, NLP, LLMs & Mern Stack Development**  
-🚀 Turning ideas into scalable real-world applications  
+🤖 **Agentic AI & LLMs Enthusiast**  
+🌐 **MERN Stack Developer**  
 
-- 🔭 Working on: **AI + LLM + Web Projects**
-- 🌱 Learning: **Agentic AI, Advanced ML, Cloud, System Design**
-- 💬 Ask me about: **Python, C++, Java, DSA, ML, LLMs**
-- 🏆 Hackathon Winner & Tech Explorer  
+🚀 I build intelligent systems and scalable web applications that solve real-world problems  
+
+- 🔭 Working on: **Agentic AI + LLM-based Applications**
+- 🌱 Learning: **Multi-Agent Systems, RAG, AI Architectures**
 
 ---
 
